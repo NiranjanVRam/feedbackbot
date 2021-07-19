@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nFor source code [press me](https://github.com/Ns-AnoNymouS/feedbackbot)"
+      START = str(Config.START) + "\n\nFor source code [Click Here](https://t.me/kurachkanjiedukkatte)"
 
       RULES = Config.RULES
 
@@ -10,17 +10,17 @@ class Translation(object):
 
       ABOUT = """**MY DETAILS:**
 
-```🤖My Name:``` [Feedback Ns Bot](https://t.me/Feedback_Nsbot)
+```🤖My Name:``` [FH Helper Bot](https://t.me/fhhelperbot)
     
 ```📝 Language:``` [Python 3](https://www.python.org/)
 
 ```🧰 Framework:``` [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-```👨🏻‍💻 Developer:``` [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬](https://t.me/Ns_AnoNymouS)
+```👨🏻‍💻 Developer:``` [𝕯𝖗. 𝕾𝖙𝖗𝖆𝖓𝖌𝖊](https://t.me/niranjanvram)
                
-```📢 Channel:``` [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+```📢 Channel:``` [FILES HOME](https://t.me/fileshomeofficial)
 
-```👥 Group:``` [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+```👥 Group:``` [FH SUPPORT](https://t.me/fhsupportgrp)
 
-Inspired By @stemlime_bot
+Maintained By FH GROUP
 """
